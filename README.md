@@ -27,7 +27,7 @@
       <a href="https://www.linkedin.com/in/stephanie-ingrid-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "gmail:stephanieingrid5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-     ![snake gif](https://github.com/Stephanie-Ingrid/Stephanie-Ingrid/blob/output/github-contribution-grid-snake.svg)
+       ![snake gif](https://github.com/Stephanie-Ingrid/Stephanie-Ingrid/blob/output/github-contribution-grid-snake.svg)
 
 
 
