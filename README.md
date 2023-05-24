@@ -8,10 +8,10 @@
 - 🌱 Estudando Java e API REST
 - 👩🏻‍💻 Cursando ADS-PucMinas
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/stephanie-ingrid-oliveira/">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Stephanie-Ingrid&hide=issues,prs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie-Ingrid&layout=compact&langs_count=7&theme=midnight-purple"/>    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stephanie-Ingrid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stephanie-Ingrid&layout=compact&langs_count=7&theme=midnight-purple"/>
  </div>
   
   ##
