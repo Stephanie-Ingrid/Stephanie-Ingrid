@@ -8,11 +8,12 @@
 - 🌱 Estudando Java e API REST
 - 👩🏻‍💻 Cursando ADS-PucMinas
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/stephanie-ingrid-oliveira/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stephanie-Ingrid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stephanie-Ingrid&layout=compact&langs_count=7&theme=midnight-purple"/>
- </div>
+  
+  <div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Stephanie-Ingrid&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=FF00FF&text_color=8A2BE2&bg_color=0d1117" alt="Stephanie Ingrid github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie-Ingrid&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+</div>
   
   ##
   
@@ -32,4 +33,4 @@
       <a href = "gmail:stephanieingrid5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
