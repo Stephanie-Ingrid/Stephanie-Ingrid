@@ -4,7 +4,8 @@
 
 ## Olá, estou em busca de estágio
 
-- 🌱 Estudando Java e API REST
+- 🌱 Sempre em Desenvolvimento
+- :penguin: Programa ONE Oracle+Alura
 - 👩🏻‍💻 Cursando ADS-PucMinas
 
   
@@ -29,10 +30,10 @@
   
    ##
   
-<div align="center">
+  <div align="center">
       <a href="https://www.linkedin.com/in/stephanie-ingrid-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href = "gmail:stephanieingrid5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+      <a href = "mailto:stephanieoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
   
   ##
   
