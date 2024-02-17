@@ -6,7 +6,7 @@
 
 - 🌱 Sempre em Desenvolvimento
 - :penguin: Programa ONE Oracle+Alura
-- 👩🏻‍💻 Cursando ADS-PucMinas
+- 👩🏻‍💻 Cursando ADS-PUC Minas
 
   
   <div align="center">  
