@@ -25,17 +25,16 @@
    <img align="center" alt="stephanie-maven" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
 
-   <img align="center" alt="stephanie-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-   <img align="center" alt="stephanie-postgresql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-   <img align="center" alt="stephanie-mongodb" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
-
    <img align="center" alt="stephanie-git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
    <img align="center" alt="stephanie-github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
    <img align="center" alt="stephanie-rabbitmq" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg"/>
    <img align="center" alt="stephanie-postman" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
    <img align="center" alt="stephanie-docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" alt="stephanie-railway" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-line.svg" />
+   <img align="center" alt="stephanie-dbeaver" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+   <img align="center" alt="stephanie-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+   <img align="center" alt="stephanie-postgresql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+   <img align="center" alt="stephanie-mongodb" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+
 
    <br>
    <img align="center" alt="stephanie-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
