@@ -44,15 +44,6 @@
    <img align="center" alt="stephanie-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
    <img align="center" alt="stephanie-typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
    <img align="center" alt="stephanie-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img  />
-
-
-
-
-
-
-
-
 
 
 
