@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Stephanie+Ingrid;I'm+25+years+old;I'm+from+Brazil;I'm+studying+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Stephanie+Ingrid;I'm+26+years+old;I'm+from+Brazil;I'm+a+Systems+Analyst+and+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ## Analista e Desenvolvedora de Software
 
@@ -18,7 +19,6 @@
   ##
   
    ### Main skills:
-
 <div style="display: inline_block"><br>
    <img align="center" alt="stephanie-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
    <img align="center" alt="stephanie-spring" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
@@ -30,6 +30,7 @@
    <img align="center" alt="stephanie-rabbitmq" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg"/>
    <img align="center" alt="stephanie-postman" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
    <img align="center" alt="stephanie-docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+   
    <img align="center" alt="stephanie-dbeaver" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
    <img align="center" alt="stephanie-mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    <img align="center" alt="stephanie-postgresql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
